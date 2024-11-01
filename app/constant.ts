@@ -306,6 +306,7 @@ const openaiModels = [
 ];
 
 const googleModels = [
+  "FLUX.1-schnell-Opt",
   "FLUX.1-schnell",
   "stable-diffusion-3-medium",
 ];
