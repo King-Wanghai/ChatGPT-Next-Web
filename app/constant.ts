@@ -291,9 +291,6 @@ export const DEFAULT_TTS_VOICES = [
 ];
 
 const openaiModels = [
-  "gpt-4o-mini",
-  "gpt-4o-2024-08-06",
-  "gpt-4o-mini-2024-07-18",
   "Qwen2.5-7B-Instruct",
   "Qwen2.5-Coder-7B-Instruct",
   "Qwen2-7B-Instruct",
@@ -303,6 +300,9 @@ const openaiModels = [
   "chatglm3-6b",
   "Yi-1.5-9B-Chat-16K",
   "Yi-1.5-6B-Chat",
+  "gpt-4o-2024-08-06",
+  "gpt-4o-mini",
+  "gpt-4o-mini-2024-07-18",
 ];
 
 const googleModels = [
